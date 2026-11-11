@@ -4,9 +4,7 @@
 
 <br>
 
-<!-- ホームページの URL が決まったら、下の 3 行のコメントを外して href を書き換えてください
-<a href="https://example.com"><img src="https://img.shields.io/badge/Homepage-0c1224?style=for-the-badge&logo=googlechrome&logoColor=7dd3fc" alt="Homepage"></a>
--->
+<a href="https://maka7264.com"><img src="https://img.shields.io/badge/maka7264.com-0c1224?style=for-the-badge&logo=googlechrome&logoColor=7dd3fc" alt="ホームページ maka7264.com"></a>
 <a href="https://x.com/maka_7264"><img src="https://img.shields.io/badge/@maka__7264-0c1224?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) @maka_7264"></a>
 <a href="https://github.com/makamaika?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0c1224?style=for-the-badge&logo=github&logoColor=a78bfa" alt="Repositories"></a>
 
